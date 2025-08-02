@@ -27,7 +27,7 @@ To evaluate the performance of key product categories across the supply chain by
 - **Skincare** leads with **₹2,41,628** in revenue and an **85% OFR**, yet there’s scope for further fulfillment improvement.
 - **Haircare** has the **highest defect rate (2.48%)**, requiring immediate attention to product quality initiatives.
 - **Cosmetics** exhibits the **lowest OFR (73.08%)**, suggesting potential shipment delays or inventory gaps.
-- **Supplier 4 underperforms** across all product lines, contributing the **lowest sales volume and revenue**—warranting a performance audit.
+- **Supplier 4 underperforms** across all product lines, contributing the **lowest sales volume and revenue** warranting a performance audit.
 - **Stock levels in Haircare** are disproportionately high, signaling overproduction or demand forecasting errors.
 
 ## 💡 Recommendations
